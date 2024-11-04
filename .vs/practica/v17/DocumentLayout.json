@@ -1,18 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\",
+  "WorkspaceRootPath": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\Desktop\\practica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD9B8A0A-DB9B-426C-A2BC-559BB4A5A00D}|practica\\practica.csproj|C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD9B8A0A-DB9B-426C-A2BC-559BB4A5A00D}|practica\\practica.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\desktop\\practica\\practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD9B8A0A-DB9B-426C-A2BC-559BB4A5A00D}|practica\\practica.csproj|solutionrelative:practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9B8A0A-DB9B-426C-A2BC-559BB4A5A00D}|practica\\practica.csproj|c:\\users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\practica\\overdueinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9B8A0A-DB9B-426C-A2BC-559BB4A5A00D}|practica\\practica.csproj|solutionrelative:practica\\overdueinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD9B8A0A-DB9B-426C-A2BC-559BB4A5A00D}|practica\\practica.csproj|C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\Desktop\\practica\\practica\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9B8A0A-DB9B-426C-A2BC-559BB4A5A00D}|practica\\practica.csproj|solutionrelative:practica\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD9B8A0A-DB9B-426C-A2BC-559BB4A5A00D}|practica\\practica.csproj|C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\practica\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD9B8A0A-DB9B-426C-A2BC-559BB4A5A00D}|practica\\practica.csproj|solutionrelative:practica\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\practica\\OverdueInvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,10 +27,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\practica\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\Desktop\\practica\\practica\\Program.cs",
               "RelativeDocumentMoniker": "practica\\Program.cs",
-              "ToolTip": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\practica\\Program.cs",
-              "RelativeToolTip": "practica\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\Desktop\\practica\\practica\\Program.cs*",
+              "RelativeToolTip": "practica\\Program.cs*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T07:35:38.601Z",
@@ -39,30 +38,32 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OverdueInvoice.cs",
-              "DocumentMoniker": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\practica\\OverdueInvoice.cs",
-              "RelativeDocumentMoniker": "practica\\OverdueInvoice.cs",
-              "ToolTip": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\practica\\OverdueInvoice.cs",
-              "RelativeToolTip": "practica\\OverdueInvoice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:02:05.707Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{778b5376-ad77-4751-acdc-f3d18343f8dd}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "OverdueInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\practica\\OverdueInvoice.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\practica\\practica\\OverdueInvoice.cs",
+              "ToolTip": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\practica\\OverdueInvoice.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\practica\\practica\\OverdueInvoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:02:05.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Invoice.cs",
-              "DocumentMoniker": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\practica\\Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\Desktop\\practica\\practica\\Invoice.cs",
               "RelativeDocumentMoniker": "practica\\Invoice.cs",
-              "ToolTip": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\source\\repos\\practica\\practica\\Invoice.cs",
+              "ToolTip": "C:\\Users\\\u043D\u0438\u043A\u0438\u0442\u0430\\Desktop\\practica\\practica\\Invoice.cs",
               "RelativeToolTip": "practica\\Invoice.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAuwBsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T08:01:06.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T08:01:06.867Z"
             }
           ]
         }
